@@ -1,0 +1,17 @@
+{
+    "name": "lionelkouame/fulgore",
+    "description": "This is the smart Quiz",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Lionelkouame\\Fulgore\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "lionelkouame",
+            "email": "lionelkouame@gmail.com"
+        }
+    ],
+    "require": {}
+}
