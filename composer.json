@@ -1,6 +1,7 @@
 {
     "name": "lionelkouame/fulgore",
     "description": "This is the smart Quiz",
+    "minimum-stability": "stable",
     "license": "MIT",
     "autoload": {
         "psr-4": {
